@@ -3,7 +3,7 @@
 Plugin Name: Don't Log Health Checker
 Plugin URI: https://github.com/guessi/yourls-dont-log-health-checker
 Description: Don't Log Health Checker
-Version: 1.0.0
+Version: 1.0.1
 Author: guessi
 Author URI: http://github.com/guessi
 */
@@ -37,8 +37,10 @@ function dlhc_is_health_check() {
         'downnotifier',
         'downtimedetector',
         'elb-healthchecker',
+        'freshpingbot',
         'gomezagent',
         'gooblog',
+        'googlehc',
         'gotsitemonitor',
         'grepnetstatbot',
         'gtmetrix',
@@ -83,6 +85,7 @@ function dlhc_is_health_check() {
         'sitemonitor',
         'siteuptime',
         'sortsitecmd',
+        'uptimerobot',
         'vaultpress',
         'xenu link sleuth',
         'zabbix'
