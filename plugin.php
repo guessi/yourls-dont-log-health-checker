@@ -46,6 +46,7 @@ function dlhc_is_health_check() {
         'gtmetrix',
         'hawkreader',
         'hosttracker',
+        'kube-probe',
         'inspingbot',
         'internetseer',
         'internetvista',
