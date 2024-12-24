@@ -87,6 +87,7 @@ function dlhc_is_health_check() {
         'siteuptime',
         'sortsitecmd',
         'uptimerobot',
+        'uptime-kuma',
         'vaultpress',
         'xenu link sleuth',
         'zabbix'
